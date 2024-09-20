@@ -1,0 +1,3 @@
+From the image I can decide there are two screens and one database table which has something like two feilds.
+
+Auto day updater Heading
